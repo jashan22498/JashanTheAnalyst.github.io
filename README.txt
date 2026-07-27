@@ -1,32 +1,117 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌐 Jashan Gill - Data Analyst Portfolio
 
+Welcome to my personal portfolio website! This website showcases my skills, projects, certifications, and experience in **Data Analytics**.
+🔗 **Live Portfolio:** https://jashan22498.github.io/JashanTheAnalyst.github.io/
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 👨‍💻 About Me
 
-(* = not included)
+I am a Computer Science student passionate about transforming raw data into meaningful insights. My interests include Data Analytics, Machine Learning, Artificial Intelligence, and Web Development.
 
-AJ
-aj@lkn.io | @ajlkn
+I enjoy solving real-world problems using SQL, Python, Tableau, Power BI, Excel, and modern web technologies.
 
+---
 
-Credits:
+## 🚀 Features
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- Responsive portfolio website
+- About Me section
+- Technical Skills
+- Featured Data Analytics Projects
+- Contact Information
+- GitHub & LinkedIn Links
+- Mobile-friendly design
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 🛠️ Technologies Used
+
+### Programming Languages
+- Python
+- SQL
+- JavaScript
+- HTML5
+- CSS3
+
+### Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Data Visualization
+- Tableau
+- Power BI
+- Microsoft Excel
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🏠 Housing Data Cleaning Using SQL
+Performed end-to-end data cleaning using MySQL by handling missing values, removing duplicates, standardizing dates, splitting address fields, and improving data quality for analysis.
+
+---
+
+### 🎬 Movie Industry Data Analysis Using Python
+Analyzed movie industry data using Python, Pandas, Matplotlib, and Seaborn to identify relationships between budget, revenue, genres, ratings, and other business insights.
+
+---
+
+### 🦠 COVID-19 Dashboard Using Tableau
+Designed an interactive Tableau dashboard visualizing global COVID-19 statistics with maps, charts, KPIs, and filters for effective data storytelling.
+
+---
+
+## 💡 Skills
+
+- Data Cleaning
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Development
+- Statistical Analysis
+- SQL Queries
+
+---
+
+## 📸 Portfolio Preview
+
+The portfolio includes:
+
+- Home
+- About
+- Skills
+- Projects
+- Contact
+
+---
+
+## 📫 Contact
+
+**Jashan Gill**
+
+📧 Email: jashangill22498@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/jashangill2002/
+
+🐙 GitHub:
+https://github.com/jashan22498
+
+🌐 Portfolio:
+https://jashan22498.github.io/JashanTheAnalyst.github.io/
+
+---
+
+## ⭐ Repository
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
